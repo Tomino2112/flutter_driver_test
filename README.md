@@ -3,10 +3,11 @@
 A new Flutter project.
 
 ## Preview
-![app preview](https://6i1l42ctlg.execute-api.us-east-1.amazonaws.com/dev/showcase/?repo=Tomino2112/flutter_driver_test&target=test_driver/app_showcase.dart =200x)
+<img src="https://6i1l42ctlg.execute-api.us-east-1.amazonaws.com/dev/showcase/?repo=Tomino2112/flutter_driver_test&target=test_driver/app_showcase.dart" width="200">
 
 ## Screenshot
-![app preview](https://6i1l42ctlg.execute-api.us-east-1.amazonaws.com/dev/showcase/?repo=Tomino2112/flutter_driver_test =200x)
+<img src="https://6i1l42ctlg.execute-api.us-east-1.amazonaws.com/dev/showcase/?repo=Tomino2112/flutter_driver_test
+" width="200">
 
 ## Getting Started
 
