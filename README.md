@@ -6,8 +6,7 @@ A new Flutter project.
 <img src="https://6i1l42ctlg.execute-api.us-east-1.amazonaws.com/dev/showcase/?repo=Tomino2112/flutter_driver_test&target=test_driver/app_showcase.dart" width="200" />
 
 ## Screenshot
-<img src="https://6i1l42ctlg.execute-api.us-east-1.amazonaws.com/dev/showcase/?repo=Tomino2112/flutter_driver_test
-" width="300" />
+<img src="https://6i1l42ctlg.execute-api.us-east-1.amazonaws.com/dev/showcase/?repo=Tomino2112/flutter_driver_test" width="300" />
 
 ## Getting Started
 
