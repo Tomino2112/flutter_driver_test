@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
         // specific button and tap it inside the test suite.
         key: Key('increment'),
         onPressed: _incrementCounter,
-        tooltip: 'Increment',
+        tooltip: 'Increment counter',
         child: Icon(Icons.add),
       ),
     );
