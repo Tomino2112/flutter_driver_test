@@ -3,10 +3,10 @@
 A new Flutter project.
 
 ## Preview
-<img src="https://flutter-glimpse.tomasdostal.com/?repo=Tomino2112/flutter_driver_test&target=test_driver/app_showcase" style="max-width:300px" />
+<img src="https://flutter-glimpse.tomasdostal.com/?repo=Tomino2112/flutter_driver_test&target=test_driver/app_showcase" width="200" />
 
 ## Screenshot
-<img src="https://flutter-glimpse.tomasdostal.com/?repo=Tomino2112/flutter_driver_test" style="max-width:300px" />
+<img src="https://flutter-glimpse.tomasdostal.com/?repo=Tomino2112/flutter_driver_test" width="200" />
 
 ## Getting Started
 
